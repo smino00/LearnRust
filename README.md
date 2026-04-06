@@ -1,2 +1,1 @@
 # LearnRust
-# LearnRust
